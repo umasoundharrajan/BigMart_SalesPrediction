@@ -13,7 +13,6 @@ The goal is to predict the sales of different products across various BigMart ou
 - Data preprocessing (handling missing values, encoding categorical variables, feature engineering)
 - Baseline model: Linear Regression, Random Forest
 - Advanced models: XGBoost, LightGBM
-- Hyperparameter tuning with Optuna
 - Cross-validation for robust performance
 
 ## 🏆 Goal
